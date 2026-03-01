@@ -35,7 +35,8 @@ To generate a weekly summary:
 - Add an "Important Links" legend below the table with the numbered URLs. Sort from most important to least important
 
 ## Validation
--   there should be no row in any table presented that does not apply to the grades specified in configuration section
+-   IMPORTANT: there should be no row in any table presented that does not apply to the grades specified in configuration section
+-   IMPORTANT: do not miss no school / day off announcements
 
 ## Reference Material
 -   [Upcoming Events Extraction Guide](references/upcoming-events.md)
