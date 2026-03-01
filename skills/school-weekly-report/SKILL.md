@@ -19,7 +19,7 @@ To generate a weekly summary:
 
 1.  **Email Search & Content Retrieval**
     -   Find all emails following email patterns specified from configuration section, sent in the last 2 weeks
-    -   Retrieve the full content of each relevant message. If the email payload is in html, first convert it to markdown or plain text to be able to extract relevant information. Be specific about grades applicable to each piece of information.
+    -   Retrieve the full content of each email. If the email payload is in html, convert the raw HTML into Markdown. Be specific about grades applicable to each piece of information.
 2.  **Table Generation:**
     -   IMPORTANT: follow table presentation rules set below
     -   Follow extraction & table schema in **[upcoming-events.md](references/upcoming-events.md)** to display Upcoming Events table

@@ -5,7 +5,7 @@
 2.  **Identify Events:**
    -   Example events:
         -   field trips, day off, holidays and breaks, meetings, school-wide events. Be very thorough with recurring events.
-    -   Pay special attention to "Calendar of Events" section of emails and analyze the events listed carefully
+    -   Pay special attention to "Calendar of Events" section of emails and analyze the events listed carefully.
     -   Look for dates, times, and locations
     -   If multiple dates are mentioned for the same event, list each date in a separate row.
 3.  **Table Structure:**
