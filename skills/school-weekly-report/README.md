@@ -1,6 +1,6 @@
 # School Weekly Report Skill
 
-Summarizes recent school emails into **Upcoming Evvent**  tables **Action Item** for your child.
+Summarizes recent school emails into **Upcoming Event**  tables **Action Item** for your child.
 
 This directory contains a Gemini CLI **agent skill** packaged for reuse and customization.
 
