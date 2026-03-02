@@ -6,7 +6,7 @@ This directory contains a Gemini CLI **agent skill** packaged for reuse and cust
 
 ## Prerequisites
 
-- **Gemini CLI** installed and authenticated
+- [**Gemini CLI**](https://geminicli.com/) installed and authenticated
 - Access to email from Gemini CLI, I use the [Google Workspace Extension](https://github.com/gemini-cli-extensions/workspace):
   - `gemini extensions install https://github.com/gemini-cli-extensions/workspace`
 
