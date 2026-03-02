@@ -20,7 +20,7 @@ This installs the `school-weekly-report` skill into your local Gemini CLI.
 
 ## Configuring for your child
 
-Open `SKILL.md`:
+Open `SKILL.md` (`.gemini/skills/school-weekly-report/SKILL.md`):
 
 - **Email patterns**: Update sender addresses, domains, or search terms to match your school.
 - **Grades filter**: Set the grades/levels that apply to your student(s) so the tables only include relevant rows.
